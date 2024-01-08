@@ -5,7 +5,7 @@
     "headerTaglineThree": "System Administrator and Cybersecurity Specialist",
     "headerTaglineFour": " based in Canada 🍁",
     "showCursor": true,
-    "showBlog": true,
+    "showBlog": false,
     "darkMode": true,
     "showResume": true,
     "socials": [
@@ -30,7 +30,7 @@
           "id": "1",
           "title": "Active Directory Domain Services (AD DS) HomeLab",
           "description": "Active Directory Domain Services (AD DS) are the core functions in Active Directory that manage users and computers and allow sysadmins to organize the data into logical hierarchies. AD DS provides for security certificates, Single Sign-On (SSO), LDAP, and rights management.",
-          "imageSrc": "https://unsplash.com/photos/black-network-switch-with-cables-ISG-rUel0Uw",
+          "imageSrc": "https://assets-global.website-files.com/5b6df8bb681f89c158b48f6b/5d6e60d9c9361a764d0929b8_system-administrator.jpg",
           "url": "https://jaskiranpuri.Ca/"
        }
     ],
@@ -77,22 +77,21 @@
           "universityDate2": "2018-2020",
           "universityPara2": "Diploma in Computer Systems Technician: Network Systems"
        },
-       "languages": [
-          "Javascript",
-          "HTML5",
-          "CSS",
-          "Python",
-          "Go"
+       "Tools": [
+          "Wireshark",
+          "Windows Sysinternals",
+          "Microsoft Admin center",
+          "Powershell"
        ],
-       "frameworks": [
-          "React",
-          "Typescript",
-          "NodeJs"
+       "Tech stack": [
+          "Azure",
+          "Microsoft 365",
+          "Cisco Routers and switches"
        ],
        "others": [
-          "Figma",
-          "AdobeXD",
-          "AWS"
+          "Bash Scripting",
+          "Linux administration",
+          "Proxmox Hypervisor"
        ]
     }
  }
