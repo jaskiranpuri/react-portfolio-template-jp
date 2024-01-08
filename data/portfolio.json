@@ -56,7 +56,7 @@
           "description": "Thorough documentation and policy creation services, crafting clear and comprehensive guidelines and manuals, ensuring streamlined operations, compliance, and best practices for efficient system management."
        }
     ],
-    "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "aboutpara": "Greetings! I'm Jaskiran Puri, a driven System Administrator with a passion for crafting innovative solutions and a determined journey towards becoming a Solutions Architect.My foundation in the tech realm was solidified through a Bachelor's degree in Computer Application from Gujarat University. Further enhancing my expertise, I completed a comprehensive two-year diploma in Computer System Technician: Network Systems.Presently, my professional focus revolves around harnessing the potential of Azure, Microsoft 365, and fortifying systems through cybersecurity measures. As I navigate this dynamic field, my goal is to evolve into a Solutions Architect, leveraging my expertise in systems administration to design robust, scalable, and forward-thinking solutions for complex technological landscapes.With a commitment to staying at the forefront of technological advancements, I am dedicated to continuously expanding my knowledge base and skill set. Join me on this exciting journey as we explore the ever-evolving world of IT solutions and innovation.",
     "resume": {
        "tagline": "System Administrator | Expert in IT Infrastructure Management | Network Security Specialist | Troubleshooting & Problem-solving Guru | Passionate about Streamlining Processes and Enhancing Productivity 🚀",
        "description": "Experienced system administrator adept in Azure and Microsoft 365 tools, ensuring seamless integration, optimal performance, and robust security measures. Proficient in managing cloud-based solutions and enhancing organizational efficiency through tailored implementations and troubleshooting.",
@@ -74,6 +74,11 @@
           "universityDate": "2014-2017",
           "universityPara": "Bachelors in Computer applications"
        },
+        {
+        "universityName": "Mohawk College",
+        "universityDate": "2018-2020",
+        "universityPara": "Diploma in Computer Systems Technician: Network Systems"
+        },
        "languages": [
           "Javascript",
           "HTML5",
