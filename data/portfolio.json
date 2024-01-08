@@ -72,13 +72,11 @@
        "education": {
           "universityName": "Gujarat University",
           "universityDate": "2014-2017",
-          "universityPara": "Bachelors in Computer applications"
+          "universityPara": "Bachelors in Computer applications",
+          "universityName2": "Mohawk College",
+          "universityDate2": "2018-2020",
+          "universityPara2": "Diploma in Computer Systems Technician: Network Systems"
        },
-        {
-        "universityName": "Mohawk College",
-        "universityDate": "2018-2020",
-        "universityPara": "Diploma in Computer Systems Technician: Network Systems"
-        },
        "languages": [
           "Javascript",
           "HTML5",
